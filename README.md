@@ -1,8 +1,7 @@
-# React + Vite
+# Component Library++
 
-This template provides a minimal setup to get React working in Vite with HMR and some ESLint rules.
+Built using React, JS, HTML and CSS this project demonstrates how multiple different components in a react app can be used together to build something bigger. Using seperate components makes the code cleaner and more reusable. 
 
-Currently, two official plugins are available:
-
-- [@vitejs/plugin-react](https://github.com/vitejs/vite-plugin-react/blob/main/packages/plugin-react/README.md) uses [Babel](https://babeljs.io/) for Fast Refresh
-- [@vitejs/plugin-react-swc](https://github.com/vitejs/vite-plugin-react-swc) uses [SWC](https://swc.rs/) for Fast Refresh
+### Some technical skills used 
+- React props & children
+- Conditional rendering 
